@@ -1,15 +1,21 @@
-# zas-weather
-ZAS Weather Website
+
+# ZAS Weather Website
 
 Welcome to the repository for our weather website! Our website provides reliable and up-to-date weather information for locations around the world.
-Features
 
-    Current weather conditions for any location, including temperature, humidity, wind speed, and more
+# Features
+
+    Current weather conditions for any city, including temperature, humidity, wind speed, and more
     7-day forecast with detailed daily weather information
     Responsive design for optimal viewing on any device
-    Option to select preferred units (Celsius or Fahrenheit) and display language (English, Spanish, French, etc.)
+ 
+# Technologies
+This website is built using the following technologies:
+-	HTML - used for creating the structure and content of web pages
+-	Bootstrap - responsive front-end framework for building mobile-friendly websites
+-	JavaScript - used for adding interactivity and dynamic functionality to web pages
 
-Getting Started
+# Getting Started
 
 To get started with the site, simply visit our website and enter a location in the search bar. You will then be presented with the current weather conditions and 7-day forecast for that location.
 Contributing
@@ -28,3 +34,16 @@ If you have any questions or encounter any issues while using the site, please d
 License
 
 This project is licensed under the MIT License. Please see the LICENSE file for more details.
+# Contact Us
+
+If you have any questions or concerns, please feel free to contact us at [email zaeemaftabsiddiqui@gmail.com]. Our customer service team is available 24/7 to assist you.
+Newsletters
+
+Sign up to our newsletters to stay updated with new products, sales, and promotions.
+Social Media
+
+Follow us on our social media platforms to stay updated with new products and other informations.
+
+   
+<a href="https://twitter.com/zaeemaftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaeemaftab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zaeem-aftab-siddiqui-ba45b21a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaeem-aftab-siddiqui-ba45b21a2/" height="30" width="40" /></a>
