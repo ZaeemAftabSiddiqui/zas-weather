@@ -14,8 +14,6 @@ const getWeather = (city) => {
   )
     .then((response) => response.json())
     .then((response) => {
-      console.log(response);
-
       cloud_pct.innerHTML = response.cloud_pct;
       temp.innerHTML = response.temp;
       temp2.innerHTML = response.temp;
@@ -53,7 +51,6 @@ fetch(
 )
   .then((response) => response.json())
   .then((response) => {
-    console.log(response);
     cloud_pctLondon.innerHTML = response.cloud_pct;
     feels_likeLondon.innerHTML = response.feels_like;
     humidityLondon.innerHTML = response.humidity;
@@ -81,8 +78,6 @@ fetch(
 )
   .then((response) => response.json())
   .then((response) => {
-    console.log(response);
-
     cloud_pctBangkok.innerHTML = response.cloud_pct;
     feels_likeBangkok.innerHTML = response.feels_like;
     humidityBangkok.innerHTML = response.humidity;
@@ -111,7 +106,6 @@ fetch(
 )
   .then((response) => response.json())
   .then((response) => {
-    console.log(response);
     cloud_pctDubai.innerHTML = response.cloud_pct;
     feels_likeDubai.innerHTML = response.feels_like;
     humidityDubai.innerHTML = response.humidity;
@@ -140,7 +134,6 @@ fetch(
 )
   .then((response) => response.json())
   .then((response) => {
-    console.log(response);
     cloud_pctTokyo.innerHTML = response.cloud_pct;
     feels_likeTokyo.innerHTML = response.feels_like;
     humidityTokyo.innerHTML = response.humidity;
